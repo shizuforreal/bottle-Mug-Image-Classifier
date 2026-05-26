@@ -15,9 +15,6 @@ using Haar feature extraction and a Support Vector Machine (SVM).
 | Bottles | 0.75      | 0.71   | 0.73     |
 | Mugs    | 0.70      | 0.74   | 0.72     |
 
-## Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
-
 ## How It Works
 1. Load grayscale images, resize to 64x64
 2. Extract 128 Haar-like features per image
